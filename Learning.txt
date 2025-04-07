@@ -1,2 +1,4 @@
 Learning Git!
 committing directly without using add to staging area
+diff from earlier file
+did it go well?

@@ -1,1 +1,2 @@
 Learning Git!
+committing directly without using add to staging area
